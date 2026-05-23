@@ -5,7 +5,7 @@ Hi! I'm Nate Mastronardi 👋
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/natemastronardi)
-![Gmail](https://img.shields.io/badge/nmastron@uwaterloo.ca-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)
+![Email](https://img.shields.io/badge/nmastron%40uwaterloo.ca-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 
 </div>
 
